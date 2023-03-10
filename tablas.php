@@ -1,5 +1,9 @@
 <?php
+<<<<<<< HEAD
 echo "Los productos del carrito";
+=======
+echo "Hola Mundo";
+>>>>>>> origin/pupilaEneyra
 
 $productos = array( 1 => array("Producto", "Descripcion", 35.78),
                     2 => array("Producto", "Descripcion", 41.12),
