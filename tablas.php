@@ -1,4 +1,5 @@
 <?php
+echo "Los productos del carrito";
 
 $productos = array( 1 => array("Producto", "Descripcion", 35.78),
                     2 => array("Producto", "Descripcion", 41.12),
